@@ -18,6 +18,5 @@ A fun and interactive quiz game built using HTML, CSS, and JavaScript. Test your
 
 ## Demo
 
-[Live Demo](#)  
-*(Replace `#` with the link if you deploy the project, e.g., using GitHub Pages.)*
+ https://samraddhigupta0326.github.io/QUIZ-GAME/
 
